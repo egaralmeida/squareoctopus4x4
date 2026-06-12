@@ -2,6 +2,8 @@
 
 Wi-Fi controlled 4x4 WS2812B LED matrix running on an ESP32, exposing a simple HTTP JSON API for pixels, effects, and frame sequences.
 
+https://youtube.com/shorts/MrOqMmSNaX8
+
 ## Hardware
 
 - **Board:** ESP32-C3 Super Mini (select **ESP32C3 Dev Module** in the boards list) — this is the board the default case is designed for
